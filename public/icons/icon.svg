@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#1f2937"/>
+  <g fill="white">
+    <!-- Box/Package icon representing inventory -->
+    <path d="M256 80L128 150v140l128 70 128-70V150L256 80zm0 35l85 47-85 47-85-47 85-47zm-100 82l85 47v95l-85-47v-95zm200 0v95l-85 47v-95l85-47z"/>
+  </g>
+  <!-- EIMS text -->
+  <text x="256" y="420" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white" text-anchor="middle">EIMS</text>
+</svg>
